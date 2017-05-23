@@ -1,0 +1,3 @@
+# A short revision...
+to have skills needed to use GitHub, mostly taken from [Learn Enough To
+Be Dangerous](http://learnenough.com/git-tutorial).
